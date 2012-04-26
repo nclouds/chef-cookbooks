@@ -8,8 +8,7 @@ Installation
 
 Copy gogrid_create_server.rb, gogrid_delete.rb and gogrid_images.rb to ~/.chef/plugins/knife/
 
-Configuration:
-==============
+= CONFIGURATION:
 
 In order to communicate with the API of GoGrid you have tell Knife about your GoGrid api key and GoGrid shared keys. Edit your knife.rb and these lines in there
 
