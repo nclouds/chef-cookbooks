@@ -1,10 +1,8 @@
-Description
-===========
+= Description:
 
 Knife scripts which provides support for gogrid api
 
-Installation
-============
+= Installation:
 
 Copy gogrid_create_server.rb, gogrid_delete.rb and gogrid_images.rb to ~/.chef/plugins/knife/
 

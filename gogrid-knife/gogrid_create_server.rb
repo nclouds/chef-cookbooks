@@ -1,12 +1,13 @@
 require 'chef'
 require 'json'
 require "chef/knife/core/bootstrap_context"
-        require "chef/json_compat"
-        require "tempfile"
-        require "highline"
-        require "net/ssh"
-        require "net/ssh/multi"
-        Chef::Knife::Ssh.load_deps
+require "chef/json_compat"
+require "tempfile"
+require "highline"
+require "net/ssh"
+require "net/ssh/multi"
+
+Chef::Knife::Ssh.load_deps
 class Chef
   class Knife
     class GogridServerCreate < Knife
