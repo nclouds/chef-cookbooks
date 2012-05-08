@@ -2,7 +2,7 @@
 # Cookbook Name:: chef-client-cron
 # Recipe:: default
 #
-# Copyright 2012, YOUR_COMPANY_NAME
+# Copyright 2012, nclouds.com
 #
 # All rights reserved - Do Not Redistribute
 #
