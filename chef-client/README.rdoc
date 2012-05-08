@@ -1,5 +1,5 @@
 = DESCRIPTION:
-
+Be default chef runs in daemon mode, and it's known to have memory leak issues. This cookbook configures a cronjob for chef-client to run every 10 minutes 
 = REQUIREMENTS:
 
 = ATTRIBUTES:
